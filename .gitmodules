@@ -1,0 +1,6 @@
+[submodule "WebUI"]
+	path = WebUI
+	url = https://github.com/KnowledgeCaptureAndDiscovery/DISK-UI.git
+[submodule "API"]
+	path = API
+	url = https://github.com/KnowledgeCaptureAndDiscovery/DISK-API.git
